@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/LabUser-17355299/LabUser-17355299/_apis/build/status/Hrothval.calculator?branchName=master)](https://dev.azure.com/LabUser-17355299/LabUser-17355299/_build/latest?definitionId=1&branchName=master)
